@@ -1,6 +1,3 @@
-# sh
-
-
 # GITHUB.SH
 
 It allows us to quickly make the following orders:
